@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-07_14-54-26
+===============================
+
+--- CPU ---
+Uso CPU: 3.8%
+
+--- MEMORIA ---
+Total: 905Mi | Usado: 181Mi | Libre: 259Mi
+
+--- DISCO ---
+Total: 57G | Usado: 3.2G | Libre: 52G | Uso: 6%
+
+--- PROCESOS TOP 5 (por CPU) ---
+ps                   CPU: 500%
+bash                 CPU: 9.8%
+/usr/sbin/tailscaled CPU: 0.9%
+/sbin/init           CPU: 0.5%
+sshd-session:        CPU: 0.2%
+
+--- UPTIME ---
+ 14:54:27 up  1:00,  1 user,  load average: 0.06, 0.10, 0.04

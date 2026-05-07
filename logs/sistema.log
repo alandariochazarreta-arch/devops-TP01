@@ -1,0 +1,52 @@
+[2026-05-07 14:32:41] ============================================
+[2026-05-07 14:32:41] Iniciando script de automatización del sistema
+[2026-05-07 14:32:41] Directorio base: /home/xone/devops-TP01
+[2026-05-07 14:32:41] ============================================
+[2026-05-07 14:32:41] === TAREA 1: Iniciando backup ===
+[2026-05-07 14:32:41] Backup completado en: /home/xone/devops-TP01/backups/backup_2026-05-07_14-32-41 (0 archivos)
+[2026-05-07 14:32:41] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-07 14:32:41] Limpieza completa. Archivos eliminados: 0
+[2026-05-07 14:32:41] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-07 14:32:41] Reporte guardado en: /home/xone/devops-TP01/logs/reporte_2026-05-07_14-32-41.txt
+[2026-05-07 14:32:42] ============================================
+[2026-05-07 14:32:42] Todas las tareas completadas exitosamente
+[2026-05-07 14:32:42] ============================================
+[2026-05-07 14:39:28] ============================================
+[2026-05-07 14:39:28] Iniciando script de automatización del sistema
+[2026-05-07 14:39:28] Directorio base: /home/xone/devops-TP01
+[2026-05-07 14:39:28] ============================================
+[2026-05-07 14:39:28] === TAREA 1: Iniciando backup ===
+[2026-05-07 14:39:28] Backup completado en: /home/xone/devops-TP01/backups/backup_2026-05-07_14-39-28 (0 archivos)
+[2026-05-07 14:39:28] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-07 14:39:28] Limpieza completa. Archivos eliminados: 0
+[2026-05-07 14:39:28] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-07 14:39:29] Reporte guardado en: /home/xone/devops-TP01/logs/reporte_2026-05-07_14-39-28.txt
+[2026-05-07 14:39:29] ============================================
+[2026-05-07 14:39:29] Todas las tareas completadas exitosamente
+[2026-05-07 14:39:29] ============================================
+[2026-05-07 14:54:26] ============================================
+[2026-05-07 14:54:26] Iniciando script de automatización del sistema
+[2026-05-07 14:54:26] Directorio base: /home/xone/devops-TP01
+[2026-05-07 14:54:26] ============================================
+[2026-05-07 14:54:26] === TAREA 1: Iniciando backup ===
+[2026-05-07 14:54:26] Backup completado en: /home/xone/devops-TP01/backups/backup_2026-05-07_14-54-26 (0 archivos)
+[2026-05-07 14:54:26] === TAREA 2: Limpieza de archivos mayores a 3 días ===
+[2026-05-07 14:54:27] Limpieza completa. Archivos eliminados: 0
+[2026-05-07 14:54:27] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-07 14:54:27] Reporte guardado en: /home/xone/devops-TP01/logs/reporte_2026-05-07_14-54-26.txt
+[2026-05-07 14:54:27] ============================================
+[2026-05-07 14:54:27] Todas las tareas completadas exitosamente
+[2026-05-07 14:54:27] ============================================
+[2026-05-07 14:56:07] ============================================
+[2026-05-07 14:56:07] Iniciando script de automatización del sistema
+[2026-05-07 14:56:07] Directorio base: /home/xone/devops-TP01
+[2026-05-07 14:56:07] ============================================
+[2026-05-07 14:56:07] === TAREA 1: Iniciando backup ===
+[2026-05-07 14:56:07] Backup completado en: /home/xone/devops-TP01/backups/backup_2026-05-07_14-56-07 (0 archivos)
+[2026-05-07 14:56:07] === TAREA 2: Limpieza de archivos mayores a 3 días ===
+[2026-05-07 14:56:07] Limpieza completa. Archivos eliminados: 0
+[2026-05-07 14:56:07] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-07 14:56:08] Reporte guardado en: /home/xone/devops-TP01/logs/reporte_2026-05-07_14-56-07.txt
+[2026-05-07 14:56:08] ============================================
+[2026-05-07 14:56:08] Todas las tareas completadas exitosamente
+[2026-05-07 14:56:08] ============================================
