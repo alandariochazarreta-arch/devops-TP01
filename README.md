@@ -9,11 +9,12 @@ Script que automatiza 3 tareas de administración de sistemas Linux.
 ## Uso
 Ejecutar en bash
 bash scripts/sistema.sh [directorio_origen] [dias_retencion]
-
+```
 Ejemplos
 bash scripts/sistema.sh           # usa defaults
 bash scripts/sistema.sh /var/log 3  # limpia archivos de más de 3 días
-
+```
+```
 Estructura
 devops-TP01/
 ├── scripts/
@@ -23,4 +24,4 @@ devops-TP01/
 │   └── reporte_FECHA.txt
 ├── backups/
 └── README.md
-
+```
